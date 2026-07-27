@@ -38,6 +38,6 @@ Run the notebook top to bottom. Two components run outside the main notebook flo
 
 ## Notes
 
-- All patient records are synthetic/mock data generated for demonstration — no real clinical or personal data is used.
+- All patient records are synthetic/mock data generated for demonstration no real clinical or personal data is used.
 - The hardware-integration section (pySerial smart pillbox) is a framework only and requires a physical microcontroller to run.
-- This project prioritizes breadth (demonstrating the full pipeline) over production hardening — see `project_cleaned.ipynb` for the annotated walkthrough of each stage.
+- This project prioritizes breadth (demonstrating the full pipeline) over production hardening — see `HIV RISK ANALYTICS.ipynb` for the annotated walkthrough of each stage.
